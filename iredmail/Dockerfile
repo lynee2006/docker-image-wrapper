@@ -1,2 +1,2 @@
-FROM iredmail/mariadb
+FROM iredmail/mariadb:stable
 LABEL author=frank.zhou
