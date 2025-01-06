@@ -1,2 +1,2 @@
-FROM kartoza/geoserver:latest
+FROM docker.rainbond.cc/kartoza/geoserver:latest
 LABEL author=frank.zhou
